@@ -17,4 +17,4 @@ Datos sobre felinos: [https://www.gbif.org/occurrence/download/0141580-220831081
 Datos sobre Áreas Silvestres Protegidas: [https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC](https://www.snitcr.go.cr/ico_servicios_ogc_info?k=bm9kbzo6NDA=&nombre=SINAC)
 
 En el siguiente link se puede apreciar el trabajo llevado a cabo en el cuaderno de Jupyter tambien adjunto en el repositorio. 
-Link NBviewer: []()
+Link NBviewer: [https://nbviewer.org/github/Leandro-rb4/Tarea3/blob/main/Cuaderno_Tarea3.ipynb](https://nbviewer.org/github/Leandro-rb4/Tarea3/blob/main/Cuaderno_Tarea3.ipynb)
